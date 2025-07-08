@@ -51,9 +51,3 @@ Beat Bond is a decentralized platform that enables creators (musicians, artists,
 3. Start the dev server: `npm run dev`
 4. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-## Contact & Support
-For any questions or demo requests, please contact the project maintainer or open an issue.
-
----
-
-*This project was built for hackathon evaluation and demonstrates a full-stack, decentralized creator economy platform using the Zora protocol.* 
